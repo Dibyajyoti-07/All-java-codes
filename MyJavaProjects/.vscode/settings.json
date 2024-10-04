@@ -1,0 +1,18 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "multiple inheritence",
+        "Returnable Function",
+        "Nonreturnable Function",
+        "Multilevel Inheritence",
+        "Inheritance",
+        "Hierarchical Inheritance",
+        "Constructor",
+        "override"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
